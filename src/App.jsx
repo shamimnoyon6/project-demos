@@ -1,10 +1,12 @@
+import Counter from "./components/Counter"
 
 
 const App = () => {
   return (
-    <div>app</div>
-    <div>app</div>
-    <div>app</div>
+    <div>
+    <Counter/>
+    </div>
+    
   )
 }
 
